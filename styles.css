@@ -149,7 +149,8 @@ body {
     font-weight: 700;
     line-height: 1.2;
     margin-bottom: 1rem;
-    color: #3498db;
+    /* color: #3498db; */
+    color: #fff;
 }
 
 .highlight {
@@ -161,7 +162,7 @@ body {
 
 .hero-subtitle {
     font-size: 1.5rem;
-    color: #ffffff;
+    color: #ffffffb9;
     margin-bottom: 1.5rem;
     font-weight: 500;
 }
